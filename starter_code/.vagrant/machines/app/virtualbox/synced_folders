@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"/Users/mahanjahromi/code/opscode/vagrant_mongoDB/starter_code/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/mahanjahromi/code/opscode/vagrant_mongoDB/starter_code","disabled":false,"__vagrantfile":true}}}
